@@ -4,6 +4,7 @@
 
 /elite-schedule-admin/node_modules
 /elite-schedule-admin/src/lib
+/elite-schedule-admin/src/app/services/app-spinner.services.js
 
 ################
 # End My changes
