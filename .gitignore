@@ -1,3 +1,14 @@
+############
+# My changes
+############
+
+/elite-schedule-admin/node_modules
+/elite-schedule-admin/src/lib
+
+################
+# End My changes
+################
+
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
 
 *.iml
