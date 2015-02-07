@@ -3,6 +3,7 @@
 ############
 
 /elite-schedule-admin/node_modules
+/elite-schedule-admin/setup/node_modules
 /elite-schedule-admin/src/lib
 /elite-schedule-admin/src/app/services/app-spinner.services.js
 
